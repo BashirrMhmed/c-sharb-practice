@@ -1,0 +1,23 @@
+TextBox Control: Used to receive keyboard input from the user.
+Text Property: Stores the input from a TextBox as a string.
+Variable: A storage location in memory used to hold data.
+Variable Declaration: Variables must be declared with a data type before use.
+Data Type: Defines the type of data a variable can store.
+Variable Names: Should be meaningful and follow C# naming rules.
+String: Stores a sequence of characters.
+String Concatenation: Combines strings using the + operator.
+Scope: Defines where a variable can be accessed.
+Local Variable: A variable declared inside a method.
+Variable Lifetime: The period during which a variable exists in memory.
+Assignment Compatibility: Values assigned to variables must be compatible with their data types.
+Initialization: Giving a variable a value before using it.
+Numeric Data Types: int, double, and decimal are used for numeric data.
+Numeric Literal: A number written directly in the program.
+Type Casting: Explicitly converting one numeric data type to another.
+var Keyword: Allows the compiler to determine a variable's type from its initial value.
+Arithmetic Operators: +, -, *, /, and % perform calculations.
+Order of Operations: Determines the sequence in which mathematical expressions are evaluated.
+Integer Division: Division between two integers produces an integer result.
+Numeric Input: TextBox input is received as a string even when it represents a number.
+Parse Methods: Convert strings into numeric values, such as int.Parse() and double.Parse().
+ToString() Method: Converts numeric values into strings for display
