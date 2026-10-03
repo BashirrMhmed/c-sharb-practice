@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ap\\Desktop\\c-sharb-practice\\c-sharb-practice\\Payroll with overtime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A16FB0B7-1A5E-48CC-BC85-2C6F63B7847D}|Payroll with overtime\\Payroll with overtime.csproj|c:\\users\\ap\\desktop\\c-sharb-practice\\c-sharb-practice\\payroll with overtime\\payroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16FB0B7-1A5E-48CC-BC85-2C6F63B7847D}|Payroll with overtime\\Payroll with overtime.csproj|solutionrelative:payroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16FB0B7-1A5E-48CC-BC85-2C6F63B7847D}|Payroll with overtime\\Payroll with overtime.csproj|C:\\Users\\Ap\\Desktop\\c-sharb-practice\\c-sharb-practice\\Payroll with overtime\\payroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A16FB0B7-1A5E-48CC-BC85-2C6F63B7847D}|Payroll with overtime\\Payroll with overtime.csproj|solutionrelative:payroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ap\\Desktop\\c-sharb-practice\\c-sharb-practice\\Payroll with overtime\\Payroll with overtime\\Form1.cs",
+              "RelativeDocumentMoniker": "Payroll with overtime\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ap\\Desktop\\c-sharb-practice\\c-sharb-practice\\Payroll with overtime\\Payroll with overtime\\Form1.cs",
+              "RelativeToolTip": "Payroll with overtime\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:17:36.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ap\\Desktop\\c-sharb-practice\\c-sharb-practice\\Payroll with overtime\\Payroll with overtime\\Form1.cs",
+              "RelativeDocumentMoniker": "Payroll with overtime\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ap\\Desktop\\c#practice\\Payroll with overtime\\Payroll with overtime\\Form1.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\c#practice\\Payroll with overtime\\Payroll with overtime\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T18:43:14.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
