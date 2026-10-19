@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ap\\Desktop\\c#practice\\Range_Checker\\",
+  "WorkspaceRootPath": "C:\\Users\\Ap\\Desktop\\c-sharb-practice\\c-sharb-practice\\Range_Checker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7280FA4E-CDAF-498F-9865-60B845C3BF0D}|Range_Checker\\Range_Checker.csproj|c:\\users\\ap\\desktop\\c#practice\\range_checker\\range_checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7280FA4E-CDAF-498F-9865-60B845C3BF0D}|Range_Checker\\Range_Checker.csproj|c:\\users\\ap\\desktop\\c-sharb-practice\\c-sharb-practice\\range_checker\\range_checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7280FA4E-CDAF-498F-9865-60B845C3BF0D}|Range_Checker\\Range_Checker.csproj|solutionrelative:range_checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7280FA4E-CDAF-498F-9865-60B845C3BF0D}|Range_Checker\\Range_Checker.csproj|c:\\users\\ap\\desktop\\c#practice\\range_checker\\range_checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7280FA4E-CDAF-498F-9865-60B845C3BF0D}|Range_Checker\\Range_Checker.csproj|C:\\Users\\Ap\\Desktop\\c-sharb-practice\\c-sharb-practice\\Range_Checker\\range_checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7280FA4E-CDAF-498F-9865-60B845C3BF0D}|Range_Checker\\Range_Checker.csproj|solutionrelative:range_checker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Ap\\Desktop\\c#practice\\Range_Checker\\Range_Checker\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ap\\Desktop\\c-sharb-practice\\c-sharb-practice\\Range_Checker\\Range_Checker\\Form1.cs",
               "RelativeDocumentMoniker": "Range_Checker\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ap\\Desktop\\c#practice\\Range_Checker\\Range_Checker\\Form1.cs*",
-              "RelativeToolTip": "Range_Checker\\Form1.cs*",
-              "ViewState": "AgIAACoAAAAAAAAAAAAvwDUAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Ap\\Desktop\\c-sharb-practice\\c-sharb-practice\\Range_Checker\\Range_Checker\\Form1.cs",
+              "RelativeToolTip": "Range_Checker\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-03T17:29:04.464Z",
               "EditorCaption": ""
@@ -37,13 +37,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ap\\Desktop\\c#practice\\Range_Checker\\Range_Checker\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ap\\Desktop\\c-sharb-practice\\c-sharb-practice\\Range_Checker\\Range_Checker\\Form1.cs",
               "RelativeDocumentMoniker": "Range_Checker\\Form1.cs",
-              "ToolTip": "C:\\Users\\Ap\\Desktop\\c#practice\\Range_Checker\\Range_Checker\\Form1.cs [Design]*",
-              "RelativeToolTip": "Range_Checker\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\Ap\\Desktop\\c#practice\\Range_Checker\\Range_Checker\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\c#practice\\Range_Checker\\Range_Checker\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-03T17:20:56.602Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-10-03T17:20:56.602Z"
             }
           ]
         }
