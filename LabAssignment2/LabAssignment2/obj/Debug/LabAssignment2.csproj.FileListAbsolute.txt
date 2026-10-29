@@ -1,0 +1,11 @@
+C:\Users\Ap\Desktop\c#practice\LabAssignment2\LabAssignment2\obj\Debug\LabAssignment2.csproj.AssemblyReference.cache
+C:\Users\Ap\Desktop\c#practice\LabAssignment2\LabAssignment2\obj\Debug\LabAssignment2.Form1.resources
+C:\Users\Ap\Desktop\c#practice\LabAssignment2\LabAssignment2\obj\Debug\LabAssignment2.Properties.Resources.resources
+C:\Users\Ap\Desktop\c#practice\LabAssignment2\LabAssignment2\obj\Debug\LabAssignment2.csproj.GenerateResource.cache
+C:\Users\Ap\Desktop\c#practice\LabAssignment2\LabAssignment2\obj\Debug\LabAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Ap\Desktop\c#practice\LabAssignment2\LabAssignment2\bin\Debug\LabAssignment2.exe.config
+C:\Users\Ap\Desktop\c#practice\LabAssignment2\LabAssignment2\bin\Debug\LabAssignment2.exe
+C:\Users\Ap\Desktop\c#practice\LabAssignment2\LabAssignment2\bin\Debug\LabAssignment2.pdb
+C:\Users\Ap\Desktop\c#practice\LabAssignment2\LabAssignment2\obj\Debug\LabAssignment2.exe
+C:\Users\Ap\Desktop\c#practice\LabAssignment2\LabAssignment2\obj\Debug\LabAssignment2.pdb
+C:\Users\Ap\Desktop\c#practice\LabAssignment2\LabAssignment2\obj\Debug\LabAssignment2.exe.config
